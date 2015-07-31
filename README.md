@@ -54,9 +54,25 @@ When you find something you can't say, what do you do with it? My advice is, don
 In every period of history, people believe things that were just ridiculous, and believe them so strongly that you would have gotten in terrible trouble for saying otherwise. ... It's tantalizing to think we believe things that people in the future will find ridiculous. What WOULD someone coming back to visit us in a time machine have to be careful not to say?|Paul Graham
 The people you can say heretical things to without getting jumped on are also the most interesting to know.|Paul Graham
 The statements that make people mad are the ones they worry might be believed. I suspect the statements that make people are maddest are those they worry might be true.|Paul Graham
+Its hard to do a really good job on anything you don't think about in the shower.|Paul Graham
 We become what we behold. We shape our tools and then our tools shape us.|Marshall McLuhan
 In times of change learners inherit the earth; while the learned find themselves beautifully equipped to deal with a world that no longer exists.|Eric Hoffer
-
+Creativity is people who care enough to keep thinking about something until they find the simplest way to do it.|Tim Cook
+I want to grow. I want to be better. You Grow. We all grow. We're made to grow.You either evolve or you disappear.|2pac
+If you can make it through the night, there's a brighter day.|2pac
+A coward dies a thousand times, a soldier dies but once.|2pac
+I didn't choose the thug life, the thug life chose me.|2pac
+I have not failed. i've just found 10 000 ways that won't work.|Thomas Edison
+It is no measure of health to be well adjusted to a profoundly sick society.|Jiddu Krishnamurti
+If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas.|George Bernard Shaw
+A developed country is not a place where the poor have cars. It’s where the rich use public transport.|Enrique Penalosa
+When given a choice, choose the thing that scares you a little. If it's 100% safe, it is holding you back.|Jeff Atwood
+If you're going through hell, keep going.|Winston Churchill
+the brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something. Because the brick walls are there to stop people who don't want it badly enough.|Randy Pausch
+War does not determine who is right - only who is left.|Bertrand Russell
+A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.|Lazarus Long
+Life isn't about finding yourself it is about creating yourself.|B.Shaw
+In order to survive got to learn to live with regrets, On the rise to the top many drop, don’t forget.|Jay-Z
 
 #Business Quotes
 
@@ -79,6 +95,8 @@ The road to success is always under construction.|Arnold Palmer
 I will tell you how to become rich. Close the doors. Be fearful when others are greedy. Be greedy when others are fearful.|Warren Buffet
 “This one Yahoo engineer, a real genius, was talking to me about his research on auction theory,” he says. “I said to him, ‘Do you ever think your talents would be better deployed on health care or Social Security?’ He said, ‘I went to the Department of Health and Human Services that was dealing with drug pricing because I had an idea, and they wouldn’t let me in.’ ” The U.S. has such a backward way of resourcing government, he says, that it can’t make use of novel ideas.|Joel Stein
 Of course we're destined to fail. That's what entrepreneurship is. That's what-- when you try to do something new, the chances are you're gonna fail. And I think that in-- when we're 21 or 22, whenever-- all of our friends are graduating college, I think we'll be far more likely to succeed than they will be.|Alex Kiselev
+If you are not embarrassed by the first version of your product, you’ve launched too late.|Reid Hoffman
+Never stop the car - just adjust the direction it's moving.|jdero
 
 #Tech Quotes
 
@@ -89,8 +107,7 @@ Ultimately you want to have the entire world's knowledge connected directly to y
 Life's too short for bad software!|Balsamiq
 In the future there’s potentially two types of jobs: where you tell a machine what to do, programming a computer, or a machine is going to tell you what to do.|Tom Preston-Werner
 Premature optimization is the root of all evil (or at least most of it) in programming.|Donald Knuth
-I believe that success of software most of all lies in the customer acceptance of software and everything else is secondary.|
-karancan
+I believe that success of software most of all lies in the customer acceptance of software and everything else is secondary.|karancan
 The collection of information online is both a huge opportunity and a threat to our privacy and security.|IEEE
 
 
@@ -115,7 +132,7 @@ The biggest human flaw is that we're so pitifully fragile in our bodies, our hea
 You need to make a choice, do you abandon science to preserve your heart, or abandon your heart and sacrifice yourself to science?|Lloyd Asplund
 The people who don't like what they've got are the same people who invent things, and make discoveries, and advance civilization. They made airplanes 'cause they wanted to fly, and they made cars and trains because they wanted to go from place to place. It's as simple as that. The only reason that we've got all the things we have now is because a certain group of people got together and used their talent or imagination or genius or whatever to make it all possible. Ordinary people are probably better off living their ordinary little lives in an ordinary manner.|Kyon
 There's no such thing as love. It's just a pathetic notion that you lesser life forms cling to so you don't feel so alone.|Emperor Zing
-
+A skilled dictator is much more beneficial to humanity than a democracy of ignorant people.|Gene Smilas
 
 
 
@@ -144,7 +161,8 @@ Believing in something is easy, doing something about it is hard.|Ali G
 Civilization rests on the principle that we treat our criminals better than they treated their victims.|Carl Elias
 The simple truth is, the people want to be protected, they just don't want to know how.|Roger McCourt
 I don't want to be a product of my environment. I want my environment to be a product of me.|Frank Costello
-
+There is no good and evil, there is only power, and those too weak to seek it.|Lord Voldemort
+The thing about smart mother fuckers is that sometimes, they sound like crazy mother fuckers to stupid mother fuckers.|Walking Dead
 
 #Turkish Quotes
 
