@@ -90,7 +90,11 @@ Nothing is so dangerous to the progress of the human mind than to assume that ou
 Cause 2 suckers cant agree on something a thousand motherfuckers die for nothing|Geto Boys
 Overnight success takes decades of daily work|Paulo Coelho
 All men have fears, but the brave put down their fears and go forward, sometimes to death, but always to victory.|Dale Carnegie
-
+The present is theirs; the future, for which I really worked, is mine.|Nikola Tesla
+If you trust in yourself. . .and believe in your dreams. . .and follow your star. . . you'll still get beaten by people who spent their time working hard and learning things and weren't so lazy.|Terry Pratchett
+The world is a comedy to those that think; a tragedy to those that feel.|Horace Walpole
+Language is humanity’s oldest, and possibly best, growth hack. The right words, in the right order, at the right time, can do wonders.|Kissmetrics
+If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.|Henry Ford
 
 #Business Quotes
 
@@ -115,6 +119,9 @@ I will tell you how to become rich. Close the doors. Be fearful when others are 
 Of course we're destined to fail. That's what entrepreneurship is. That's what-- when you try to do something new, the chances are you're gonna fail. And I think that in-- when we're 21 or 22, whenever-- all of our friends are graduating college, I think we'll be far more likely to succeed than they will be.|Alex Kiselev
 If you are not embarrassed by the first version of your product, you’ve launched too late.|Reid Hoffman
 Never stop the car - just adjust the direction it's moving.|jdero
+You either die an engineer or live long enough to see yourself become the business guy.|@moonpolysoft
+Starting and profitably running a business is not just some achievement, it is heroism.|Amit Kalantri
+
 
 #Tech Quotes
 
@@ -186,12 +193,14 @@ I don't want to be a product of my environment. I want my environment to be a pr
 There is no good and evil, there is only power, and those too weak to seek it.|Lord Voldemort
 The thing about smart mother fuckers is that sometimes, they sound like crazy mother fuckers to stupid mother fuckers.|Walking Dead
 
-#Turkish Quotes
+#Friends Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
+You can't become a pokemon master in pallet town.|DBY
+I think better, because I think as the machine that I am.|Eray Ozkural
+I like ur hard nose but ur personal expectation of urself can't always hold true to others. In summation. NAPALM. It's my fav leadership acronym Not All People Are Like Me. U r good. Others not so much. Pick ur battles.|Brutis37/Kegan
 Şirketleşmek için uğraşmayın, yaptığınız iş sizi şirketleştirsin.|Abdurrahman Nakipoğlu
-
 
 
 #My Quotes
