@@ -6,8 +6,6 @@
 | ------------- |:-------------:| 
 If a man has not found what he will die for, he isn't fit to live.|Martin Luther King, Jr.
 Whatever the mind of man can conceive and believe, it can achieve.|W. Clement Stone
-As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow.|Doug McIlroy
-Industry does not care. They only hire people because it hasn't been automated yet. So, don't talk about decency and ethics, we cannot afford it and remain in business.|Zeitgeist
 We will be relentless in our pursuit for perfection. We won't ever be perfect - but in the process we will achieve greatness.|Vince Lombard
 AI is regularly cited as the "field I would most like to be in" by scientists in other disciplines. A student in physics might reasonably feel that all the good ideas have already been taken by Galileo, Newton, Einstein, and the rest. AI, on the other hand, still has openings for several full-time Einsteins and Edisons.|Stuart Russell
 Never argue with idiots. Arguing is a waste of time. In any argument one person is right and one person is wrong. Why would the person who is right waste time with the person who is wrong? A stupid person will never be able to understand that they are stupid and wrong, but you make a fool of yourself when you treat stupid people as if they were smart and capable of understanding the truth. If they were smart and capable of understanding the truth then you wouldn’t be arguing in the first place. Arguing is for children. It is unbecoming of a man to be caught acting like a child.|Victor Pride
@@ -26,7 +24,6 @@ The closer you get to excellence in your life, the more friends you'll lose. Peo
 The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.|George Bernard Shaw
 One doesn't discover new lands without consenting to lose sight of the shore for a very long time.|André Gide
 Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth.|Arthur Conan Doyle
-Ultimately you want to have the entire world's knowledge connected directly to your mind.|Sergey Brin
 Don’t know the key to success, but the key to failure is trying to please everybody.|Bill Cosby
 How ridiculous and how strange to be surprised at anything which happens in life.|Marcus Aurelius
 You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally.|Robert M. Pirsig
@@ -51,6 +48,7 @@ All of a sudden we're working harder than our fathers, who we laughed at for how
 Only the paranoid survive.|Andrew Grove
 Fake it till you become it.|Amy Cuddy
 Nothing demotivates people like the equal treatment of unequals. When you hire a bozo and treat him the same as a rock star, it deflates the rock star.|Joe Kraus
+Industry does not care. They only hire people because it hasn't been automated yet. So, don't talk about decency and ethics, we cannot afford it and remain in business.|Zeitgeist
 There is only one success – to be able to spend your life in your own way.|Christopher Morley
 If you’re not living life on the edge, you’re taking up too much space.|Jim Whittaker
 The road to success is always under construction.|Arnold Palmer
@@ -62,6 +60,8 @@ I will tell you how to become rich. Close the doors. Be fearful when others are 
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
+As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow.|Doug McIlroy
+Ultimately you want to have the entire world's knowledge connected directly to your mind.|Sergey Brin
 
 #Anime Quotes
 
