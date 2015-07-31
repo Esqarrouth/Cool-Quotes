@@ -33,7 +33,6 @@ I can calculate the motion of heavenly bodies, but not the madness of people.|Is
 I have studied these things - you have not.|Isaac Newton
 
 
-
 #Business Quotes
 
 | Quote        | Author           | 
@@ -53,7 +52,7 @@ There is only one success – to be able to spend your life in your own way.|Chr
 If you’re not living life on the edge, you’re taking up too much space.|Jim Whittaker
 The road to success is always under construction.|Arnold Palmer
 I will tell you how to become rich. Close the doors. Be fearful when others are greedy. Be greedy when others are fearful.|Warren Buffet
-“This one Yahoo engineer, a real genius, was talking to me about his research on auction theory,” he says. “I said to him, ‘Do you ever think your talents would be better deployed on health care or Social Security?’ He said, ‘I went to the Department of Health and Human Services that was dealing with drug pricing because I had an idea, and they wouldn’t let me in.’ ” The U.S. has such a backward way of resourcing government, he says, that it can’t make use of novel ideas.	Joel Stein
+“This one Yahoo engineer, a real genius, was talking to me about his research on auction theory,” he says. “I said to him, ‘Do you ever think your talents would be better deployed on health care or Social Security?’ He said, ‘I went to the Department of Health and Human Services that was dealing with drug pricing because I had an idea, and they wouldn’t let me in.’ ” The U.S. has such a backward way of resourcing government, he says, that it can’t make use of novel ideas.|Joel Stein
 
 
 #Tech Quotes
