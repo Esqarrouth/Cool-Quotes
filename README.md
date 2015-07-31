@@ -172,7 +172,9 @@ A lesson without pain is meaningless. For you cannot gain anything without sacri
 Water: 35 liters, Carbon: 20 kg, Ammonia: 4 liters, Lime:1.5 kg, Phosphrus: 800 g, salt: 250g, saltpeter:100g, Sulfer: 80g, Fluorine: 7.5 g, iron: 5.6 g, Silicon: 3g, and 15 other elements in small quantities.... thats the total chemical makeup of the average adult body. Modern science knows all of this, but there has never been a single example of succesful human trasmutation. It's like there's some missing ingredient..... Scientists have been trying to find it for hundreds of years, pouring tons of money into research, and to this day they don't have a theory. For that matter, the elements found in a human being is all junk that you can buy in any market with a child's allowence. Humans are pretty cheaply made.|Edward Elric
 People can say there is a balance, a logic that everything happens for a reason... But the truth is far less designed. No matter how hard you work, when you die, you die. Some spend their entire life trying to scratch their way to the top, and still die in poverty. While others are born into wealth without ever working at all. It's a cruel and random world. And yet the chaos is all so beautiful.|Dante
 Humankind cannot gain anything without first giving something in return. To obtain, something of equal value must be lost.|Alphonse Elric
-
+I just find phones distracting. I can't stand when people's cell phones are ringing when I'm trying to talk.|L
+However gifted you are you alone can't change the world.|L
+This world is rotten, and those who are making it rot deserve to die. Someone has to do it, so why not me? Even if it means sacrificing my own mind and soul, it's worth it. Because the world... can't go on like this. I wonder... what if someone else had picked up this notebook? Is there anyone out there other than me who'd be willing to eliminate the vermin from the world? If I don't do it, then who will? That's just it: there's no one. But I can do it. In fact, I'm the only one who can. I'll do it. Using the Death Note, I'll change the world.|Light Yagami
 
 #Movie Quotes
 
