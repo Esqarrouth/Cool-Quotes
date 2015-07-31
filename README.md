@@ -1,5 +1,3 @@
-# Cool-Quotes
-
 #Famous Quotes
 
 | Quote        | Author           | 
@@ -31,6 +29,33 @@ The less confident you are, the more serious you have to act.|Tara Ploughman
 Philosophy is dead. Scientists have become the bearers of the torch of discovery in our quest for knowledge.|Stephen Hawkings
 I can calculate the motion of heavenly bodies, but not the madness of people.|Isaac Newton
 I have studied these things - you have not.|Isaac Newton
+Discipline is hard – harder than trustworthiness and skill and perhaps even selflessness. We are by nature flawed and inconstant creatures. We can’t even keep from snacking in between meals. We are not built for discipline. We are built for novelty and excitement, not for careful attention to detail. Discipline is something we have to work at.|Atul Gawande
+Yesterday's home runs don't win today's games.|Babe Ruth
+We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about.|Einstein
+Your twenties are always an apprenticeship, but you don't always know what for.|Jan Houtema
+Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.|Mark Twain
+Any word you have to hunt for in a thesaurus is the wrong word.|Stephen King
+I would rather be first in a village than second in Rome.|Caesar
+If you must break the law, do it to seize power: In all other cases observe it.|Caesar
+Men are moved by two levers only: Fear and self-interest.|Bonaparte
+My nature is that I have to excite myself with a big challenge.|Kasparov
+One man is worth ten thousand if he is extraordinary.|Heraclitus
+Focusing is about saying no.|Steve Jobs
+Whatever you're thinking think bigger.|Tony Hsieh
+When you are ready to quit you are closer than you think.|Bob Parsons
+If you understand what you're doing, you're not learning anything.|Abraham Lincoln
+I do not accept or acknowledge many of the established 'social rules'. I view them as irrelevant noise.|Breivik
+My relationship to power and authority is that I'm all for it. ... Ninety-five percent of the people in the world need to be told what to do and how to behave.|Schwarzenegger
+If you can't explain it simply, you don't understand it well enough.|Albert Einstein
+The future is already here — it's just not very evenly distributed.|William Gibson
+The imagination of nature is far, far greater than the imagination of man.|Richard Feynman
+In our own time, different societies have wildly varying ideas of what's ok and what isn't. So you can try diffing other cultures' ideas against ours as well. ... In one culture x is ok, and in another it's considered shocking. My hypothesis is that the side that's shocked is most likely to be the mistaken one.|Paul Graham
+When you find something you can't say, what do you do with it? My advice is, don't say it. Or at least, pick your battles. ... Argue with idiots, and you become an idiot. ... The most important thing is to be able to think what you want, not to say what you want.|Paul Graham
+In every period of history, people believe things that were just ridiculous, and believe them so strongly that you would have gotten in terrible trouble for saying otherwise. ... It's tantalizing to think we believe things that people in the future will find ridiculous. What WOULD someone coming back to visit us in a time machine have to be careful not to say?|Paul Graham
+The people you can say heretical things to without getting jumped on are also the most interesting to know.|Paul Graham
+The statements that make people mad are the ones they worry might be believed. I suspect the statements that make people are maddest are those they worry might be true.|Paul Graham
+We become what we behold. We shape our tools and then our tools shape us.|Marshall McLuhan
+In times of change learners inherit the earth; while the learned find themselves beautifully equipped to deal with a world that no longer exists.|Eric Hoffer
 
 
 #Business Quotes
@@ -53,7 +78,7 @@ If you’re not living life on the edge, you’re taking up too much space.|Jim 
 The road to success is always under construction.|Arnold Palmer
 I will tell you how to become rich. Close the doors. Be fearful when others are greedy. Be greedy when others are fearful.|Warren Buffet
 “This one Yahoo engineer, a real genius, was talking to me about his research on auction theory,” he says. “I said to him, ‘Do you ever think your talents would be better deployed on health care or Social Security?’ He said, ‘I went to the Department of Health and Human Services that was dealing with drug pricing because I had an idea, and they wouldn’t let me in.’ ” The U.S. has such a backward way of resourcing government, he says, that it can’t make use of novel ideas.|Joel Stein
-
+Of course we're destined to fail. That's what entrepreneurship is. That's what-- when you try to do something new, the chances are you're gonna fail. And I think that in-- when we're 21 or 22, whenever-- all of our friends are graduating college, I think we'll be far more likely to succeed than they will be.|Alex Kiselev
 
 #Tech Quotes
 
@@ -61,6 +86,13 @@ I will tell you how to become rich. Close the doors. Be fearful when others are 
 | ------------- |:-------------:| 
 As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow.|Doug McIlroy
 Ultimately you want to have the entire world's knowledge connected directly to your mind.|Sergey Brin
+Life's too short for bad software!|Balsamiq
+In the future there’s potentially two types of jobs: where you tell a machine what to do, programming a computer, or a machine is going to tell you what to do.|Tom Preston-Werner
+Premature optimization is the root of all evil (or at least most of it) in programming.|Donald Knuth
+I believe that success of software most of all lies in the customer acceptance of software and everything else is secondary.|
+karancan
+The collection of information online is both a huge opportunity and a threat to our privacy and security.|IEEE
+
 
 #Anime Quotes
 
