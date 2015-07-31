@@ -16,12 +16,33 @@ The one who follows the crowd will usually go no further than the crowd.|Albert 
 If we wanna change we gotta fight for it, aint nobody gonna give it to us, we just gonna have to take it.|2pac
 Atheism is a religion like not collecting stamps is a hobby.|Penn Jillette
 No art, however minor, demands less than total dedication if you want to excel in it.|Leon Battista Alberti
+Simplicity is the ultimate sophistication.|Leonardo da Vinci
+Learning never exhausts the mind.|Leonardo da Vinci
+The noblest pleasure is the joy of understanding.|Leonardo da Vinci
+Art is never finished, only abandoned.|Leonardo da Vinci
+Nothing strengthens authority so much as silence.|Leonardo da Vinci
+I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success... Such emotions make a man forget food, sleep, friends, love, everything.|Nikola Tesla
+The closer you get to excellence in your life, the more friends you'll lose. People love you when you're average because it makes them comfortable. But when you pursue greatness it makes people uncomfortable. Be prepared to lose some people on your journey.|Tony A. Gaskins Jr.
+The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.|George Bernard Shaw
+Success is a choice. The odds are we won’t succeed. But if something is important enough, then you should do it anyway.|Elon Musk
+One doesn't discover new lands without consenting to lose sight of the shore for a very long time.|André Gide
+Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth.|Arthur Conan Doyle
+Ultimately you want to have the entire world's knowledge connected directly to your mind.|Sergey Brin
+Don’t know the key to success, but the key to failure is trying to please everybody.|Bill Cosby
 
 
+#Entrepreneurship Quotes
 
-
-
-
+| Quote        | Author           | 
+| ------------- |:-------------:| 
+It doesn’t matter how many times you failed, you only have to be right once.|Mark Cuban
+Inventing a job is better than finding a job.|Larry Summers
+No plan ever survives its first encounter with the enemy.|Douglas MacArthur
+Good artists copy. Great artists steal.|Picasso?Jobs?Fuck it -Goktug Yilmaz
+Success is a menace. It fools smart people into thinking they cant lose.|Bill Gates
+All of a sudden we're working harder than our fathers, who we laughed at for how hard they worked.|Steve Wozniak
+Only the paranoid survive.|Andrew Grove
+Fake it till you become it.|Amy Cuddy
 
 #Anime Quotes
 
@@ -61,26 +82,18 @@ There are no good people, there are only good decisions.|John Reese
 A lion doesn't concern himself with the opinion of a sheep.|Tywin Lannister
 
 
-
-#Entrepreneurship Quotes
+#Turkish Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
-Fake it till you become it.|Amy Cuddy
-It doesn’t matter how many times you failed, you only have to be right once.|Mark Cuban
-Inventing a job is better than finding a job.|Larry Summers
-No plan ever survives its first encounter with the enemy.|Douglas MacArthur
-Good artists copy. Great artists steal.|Picasso?Jobs?Fuck it -Goktug Yilmaz
-Success is a menace. It fools smart people into thinking they cant lose.|Bill Gates
-All of a sudden we're working harder than our fathers, who we laughed at for how hard they worked.|Steve Wozniak
-
-
-
-
+Şirketleşmek için uğraşmayın, yaptığınız iş sizi şirketleştirsin.|Abdurrahman Nakipoğlu
 
 
 
 #My Quotes
+
+
+
 
 
 
