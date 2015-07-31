@@ -25,6 +25,24 @@ Atheism is a religion like not collecting stamps is a hobby.|Penn Jillette
 
 #Anime Quotes
 
+| Quote        | Author           | 
+| ------------- |:-------------:| 
+I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.|Mewtwo
+You were created by humans to obey humans. You could never be our equal.|Giovanni
+I wanna be the very best, like no one ever was.|Jason Paige
+Every challenge along the way, with courage I will face, I will battle every day, to claim my rightful place.|Jason Paige
+I prefer the logic of systems to individualist emotions.|Suzaku Kururugi
+In this world, evil can arise from the best intentions. And there is good that can come from evil intentions.|CC
+Before creation there must be destruction. If my soul stands in the way, then I'll toss it aside.|Lelouch vi Britannia
+Hands who mark time can not be stopped.|Lelouch vi Britannia
+If the king does not lead, how can he expect his subordinates to follow.|Lelouch vi Britannia
+A man who has not mastered the use of the mask can never prevail.|Schneizel el Britannia
+The biggest human flaw is that we're so pitifully fragile in our bodies, our hearts, and our relationships with each other.|Lloyd Asplund
+You need to make a choice, do you abandon science to preserve your heart, or abandon your heart and sacrifice yourself to science?|Lloyd Asplund
+The people who don't like what they've got are the same people who invent things, and make discoveries, and advance civilization. They made airplanes 'cause they wanted to fly, and they made cars and trains because they wanted to go from place to place. It's as simple as that. The only reason that we've got all the things we have now is because a certain group of people got together and used their talent or imagination or genius or whatever to make it all possible. Ordinary people are probably better off living their ordinary little lives in an ordinary manner.|Kyon
+There's no such thing as love. It's just a pathetic notion that you lesser life forms cling to so you don't feel so alone.|Emperor Zing
+
+
 
 
 #Movie Quotes
