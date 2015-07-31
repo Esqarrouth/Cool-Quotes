@@ -24,17 +24,24 @@ Nothing strengthens authority so much as silence.|Leonardo da Vinci
 I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success... Such emotions make a man forget food, sleep, friends, love, everything.|Nikola Tesla
 The closer you get to excellence in your life, the more friends you'll lose. People love you when you're average because it makes them comfortable. But when you pursue greatness it makes people uncomfortable. Be prepared to lose some people on your journey.|Tony A. Gaskins Jr.
 The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.|George Bernard Shaw
-Success is a choice. The odds are we won’t succeed. But if something is important enough, then you should do it anyway.|Elon Musk
 One doesn't discover new lands without consenting to lose sight of the shore for a very long time.|André Gide
 Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth.|Arthur Conan Doyle
 Ultimately you want to have the entire world's knowledge connected directly to your mind.|Sergey Brin
 Don’t know the key to success, but the key to failure is trying to please everybody.|Bill Cosby
+How ridiculous and how strange to be surprised at anything which happens in life.|Marcus Aurelius
+You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally.|Robert M. Pirsig
+The less confident you are, the more serious you have to act.|Tara Ploughman
+Philosophy is dead. Scientists have become the bearers of the torch of discovery in our quest for knowledge.|Stephen Hawkings
+I can calculate the motion of heavenly bodies, but not the madness of people.|Isaac Newton
+I have studied these things - you have not.|Isaac Newton
 
 
-#Entrepreneurship Quotes
+
+#Business Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
+Success is a choice. The odds are we won’t succeed. But if something is important enough, then you should do it anyway.|Elon Musk
 It doesn’t matter how many times you failed, you only have to be right once.|Mark Cuban
 Inventing a job is better than finding a job.|Larry Summers
 No plan ever survives its first encounter with the enemy.|Douglas MacArthur
@@ -43,6 +50,18 @@ Success is a menace. It fools smart people into thinking they cant lose.|Bill Ga
 All of a sudden we're working harder than our fathers, who we laughed at for how hard they worked.|Steve Wozniak
 Only the paranoid survive.|Andrew Grove
 Fake it till you become it.|Amy Cuddy
+Nothing demotivates people like the equal treatment of unequals. When you hire a bozo and treat him the same as a rock star, it deflates the rock star.|Joe Kraus
+There is only one success – to be able to spend your life in your own way.|Christopher Morley
+If you’re not living life on the edge, you’re taking up too much space.|Jim Whittaker
+The road to success is always under construction.|Arnold Palmer
+I will tell you how to become rich. Close the doors. Be fearful when others are greedy. Be greedy when others are fearful.|Warren Buffet
+“This one Yahoo engineer, a real genius, was talking to me about his research on auction theory,” he says. “I said to him, ‘Do you ever think your talents would be better deployed on health care or Social Security?’ He said, ‘I went to the Department of Health and Human Services that was dealing with drug pricing because I had an idea, and they wouldn’t let me in.’ ” The U.S. has such a backward way of resourcing government, he says, that it can’t make use of novel ideas.	Joel Stein
+
+
+#Tech Quotes
+
+| Quote        | Author           | 
+| ------------- |:-------------:| 
 
 #Anime Quotes
 
