@@ -80,6 +80,20 @@ No matter how close two people are an infinite distance separates them.|Harry Mo
 In chess the pawns go first.|Magneto
 There are no good people, there are only good decisions.|John Reese
 A lion doesn't concern himself with the opinion of a sheep.|Tywin Lannister
+When one relies on sight to perceive the world, it is like trying to stare at the galaxy through a crack in the door.|Kreia
+I cannot force you to listen to reason, only hope that you will grow past these infantile delusions of right and wrong.|	Kreia
+To believe in an ideal, is to be willing to betray it. It is something no Sith or Jedi has ever truly learned.|Kreia
+Be careful of charity and kindness, lest you do more harm with open hands then a clenched fist.|Kreia
+Do not see every enemy as an enemy, see them instead as an ally, whether they know it or not.|Kreia
+Direct action is not always the best way. It is a far greater victory to make another see through your eyes than to close theirs forever.|Kreia
+To be united by hatred is a fragile alliance at best.|Kreia
+If you are to truly understand, then you will need to contrast, not adherence to a single ideal.|Kreia
+You must begin by gaining power over yourself; then another; then a group, an order, a world, a species, a group of species… finally, the galaxy itself.|Darth Plagueis
+Set out to correct the world's wrongs and you'll almost certainly wind up adding to them|Harold Finch
+Believing in something is easy, doing something about it is hard.|Ali G
+Civilization rests on the principle that we treat our criminals better than they treated their victims.|Carl Elias
+The simple truth is, the people want to be protected, they just don't want to know how.|Roger McCourt
+I don't want to be a product of my environment. I want my environment to be a product of me.|Frank Costello
 
 
 #Turkish Quotes
