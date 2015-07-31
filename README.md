@@ -15,7 +15,7 @@ It’s better to walk alone, than with a crowd going in the wrong direction.|Dia
 The one who follows the crowd will usually go no further than the crowd.|Albert Eintstein
 If we wanna change we gotta fight for it, aint nobody gonna give it to us, we just gonna have to take it.|2pac
 Atheism is a religion like not collecting stamps is a hobby.|Penn Jillette
-
+No art, however minor, demands less than total dedication if you want to excel in it.|Leon Battista Alberti
 
 
 
@@ -36,7 +36,10 @@ In this world, evil can arise from the best intentions. And there is good that c
 Before creation there must be destruction. If my soul stands in the way, then I'll toss it aside.|Lelouch vi Britannia
 Hands who mark time can not be stopped.|Lelouch vi Britannia
 If the king does not lead, how can he expect his subordinates to follow.|Lelouch vi Britannia
+World is a game and people are just mere pawns.|Lelouch vi Britannia
 A man who has not mastered the use of the mask can never prevail.|Schneizel el Britannia
+Mankind's history is war. Peace is an illusion.|Schneizel el Britannia
+The true nature of people is this, they want to be controlled. By their nation, their religion, their traditions and figures of grand authority. Above all the emperor must play his part.|Schneizel el Britannia
 The biggest human flaw is that we're so pitifully fragile in our bodies, our hearts, and our relationships with each other.|Lloyd Asplund
 You need to make a choice, do you abandon science to preserve your heart, or abandon your heart and sacrifice yourself to science?|Lloyd Asplund
 The people who don't like what they've got are the same people who invent things, and make discoveries, and advance civilization. They made airplanes 'cause they wanted to fly, and they made cars and trains because they wanted to go from place to place. It's as simple as that. The only reason that we've got all the things we have now is because a certain group of people got together and used their talent or imagination or genius or whatever to make it all possible. Ordinary people are probably better off living their ordinary little lives in an ordinary manner.|Kyon
@@ -46,6 +49,16 @@ There's no such thing as love. It's just a pathetic notion that you lesser life 
 
 
 #Movie Quotes
+
+| Quote        | Author           | 
+| ------------- |:-------------:| 
+Do or do not. There is no try.|Master Yoda
+All lives end. All hearts are broken. Caring is not an advantage.|Mycroft Holmes
+It's not who I am underneath, but what I do that defines me.|Batman
+No matter how close two people are an infinite distance separates them.|Harry Morgan
+In chess the pawns go first.|Magneto
+There are no good people, there are only good decisions.|John Reese
+A lion doesn't concern himself with the opinion of a sheep.|Tywin Lannister
 
 
 
@@ -57,6 +70,14 @@ Fake it till you become it.|Amy Cuddy
 It doesn’t matter how many times you failed, you only have to be right once.|Mark Cuban
 Inventing a job is better than finding a job.|Larry Summers
 No plan ever survives its first encounter with the enemy.|Douglas MacArthur
+Good artists copy. Great artists steal.|Picasso?Jobs?Fuck it -Goktug Yilmaz
+Success is a menace. It fools smart people into thinking they cant lose.|Bill Gates
+All of a sudden we're working harder than our fathers, who we laughed at for how hard they worked.|Steve Wozniak
+
+
+
+
+
 
 
 #My Quotes
