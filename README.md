@@ -73,6 +73,24 @@ War does not determine who is right - only who is left.|Bertrand Russell
 A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.|Lazarus Long
 Life isn't about finding yourself it is about creating yourself.|B.Shaw
 In order to survive got to learn to live with regrets, On the rise to the top many drop, don’t forget.|Jay-Z
+Persistence is very important. You should not give up unless you are forced to give up.|Elon Musk
+It’s OK to have your eggs in one basket as long as you control what happens to that basket.|Elon Musk
+The first step is to establish that something is possible; then probability will occur.|Elon Musk
+The idea of lying on a beach as my main thing, just sounds like the worst - it sounds horrible to me. I would go bonkers. I would have to be on serious drugs.|Elon Musk
+They can come back if they like, if they don't like it, of course. You get a free return ticket. There's sometimes a debate about going to Mars one-way and whether that makes things easier, and I think for the initial flights perhaps, but long term, to get the cost down, you need the spacecraft back. Whether the people come back is irrelevant, but you must have the ship back because those things are expensive. So anyone who wants to return can just jump on.|Elon Musk
+Ya know, Wikipedia's actually pretty damn good. It's like 90% accurate. It's just not clear what 90%.|Elon Musk
+Physics is a good framework for thinking. … Boil things down to their fundamental truths and reason up from there.|Elon Musk
+You want to have a future where you’re expecting things to be better, not one where you’re expecting things to be worse.|Elon Musk
+It is a mistake to hire huge numbers of people to get a complicated job done. Numbers will never compensate for talent in getting the right answer (two people who don’t know something are no better than one), will tend to slow down progress, and will make the task incredibly expensive.|Elon Musk
+“I could either watch it happen or be a part of it.|Elon Musk
+If you go back a few hundred years, what we take for granted today would seem like magic – being able to talk to people over long distances, to transmit images, flying, accessing vast amounts of data like an oracle. These are all things that would have been considered magic a few hundred years ago.|Elon Musk
+Always listen to the experts. They'll tell you what can't be done, and why. Then do it.|Robert A. Heinlein
+The ways of God and government and girls are all mysterious, and it is not given to mortal man to understand them.|Robert A. Heinlein
+Nothing is so dangerous to the progress of the human mind than to assume that our views of science are ultimate. That there are no mysteries in nature, that our triumphs are complete, and that there are no new worlds to conquer.|Humphry Davy
+Cause 2 suckers cant agree on something a thousand motherfuckers die for nothing|Geto Boys
+Overnight success takes decades of daily work|Paulo Coelho
+All men have fears, but the brave put down their fears and go forward, sometimes to death, but always to victory.|Dale Carnegie
+
 
 #Business Quotes
 
