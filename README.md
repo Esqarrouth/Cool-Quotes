@@ -2,7 +2,7 @@
 
 #Famous Quotes
 
-> If a man has not found what he will die for, he isn't fit to live.	Martin Luther King, Jr. 
+	If a man has not found what he will die for, he isn't fit to live. -Martin Luther King, Jr. 
 
 
 Industry does not care. They only hire people because it hasn't been automated yet. So, don't talk about decency and ethics, we cannot afford it and remain in business. 	Zeitgeist
