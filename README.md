@@ -175,6 +175,8 @@ Humankind cannot gain anything without first giving something in return. To obta
 I just find phones distracting. I can't stand when people's cell phones are ringing when I'm trying to talk.|L
 However gifted you are you alone can't change the world.|L
 This world is rotten, and those who are making it rot deserve to die. Someone has to do it, so why not me? Even if it means sacrificing my own mind and soul, it's worth it. Because the world... can't go on like this. I wonder... what if someone else had picked up this notebook? Is there anyone out there other than me who'd be willing to eliminate the vermin from the world? If I don't do it, then who will? That's just it: there's no one. But I can do it. In fact, I'm the only one who can. I'll do it. Using the Death Note, I'll change the world.|Light Yagami
+There's only one certainty in life. A strong man stands above and conquers all!|Vegeta
+
 
 #Movie Quotes
 
