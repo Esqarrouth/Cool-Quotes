@@ -95,6 +95,15 @@ If you trust in yourself. . .and believe in your dreams. . .and follow your star
 The world is a comedy to those that think; a tragedy to those that feel.|Horace Walpole
 Language is humanity’s oldest, and possibly best, growth hack. The right words, in the right order, at the right time, can do wonders.|Kissmetrics
 If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.|Henry Ford
+If knowledge is power, and its application your will, then wisdom is the sum of your power, and wisdom shared, is the alignment of others to your will...|???
+A word to the wise is sufficient.|???
+Vision without action is daydreaming and action without vision is a nightmare.|???
+Entrepreneurship is living a few years of your life like most people won’t, so that you can spend the rest of your life like most people can’t.|???
+Weak people revenge. Strong people forgive. Intelligent people ignore.|???
+The only failure is failure to learn.|???
+I will win, not immediately but definitely.|???
+Only generals that succeed can form dictatorships.|???
+
 
 #Business Quotes
 
