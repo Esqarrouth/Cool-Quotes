@@ -201,6 +201,7 @@ The simple truth is, the people want to be protected, they just don't want to kn
 I don't want to be a product of my environment. I want my environment to be a product of me.|Frank Costello
 There is no good and evil, there is only power, and those too weak to seek it.|Lord Voldemort
 The thing about smart mother fuckers is that sometimes, they sound like crazy mother fuckers to stupid mother fuckers.|Walking Dead
+Nobody exists on purpose. Nobody belongs anywhere. Everybody's going to die. Come watch TV?|Morty
 
 #Friends Quotes
 
