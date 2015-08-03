@@ -55,6 +55,8 @@ In every period of history, people believe things that were just ridiculous, and
 The people you can say heretical things to without getting jumped on are also the most interesting to know.|Paul Graham
 The statements that make people mad are the ones they worry might be believed. I suspect the statements that make people are maddest are those they worry might be true.|Paul Graham
 Its hard to do a really good job on anything you don't think about in the shower.|Paul Graham
+In an artificial world, only extremists live naturally.|Paul Graham
+I've been surprised again and again by just how much more important persistence is than raw intelligence.|Paul Graham
 We become what we behold. We shape our tools and then our tools shape us.|Marshall McLuhan
 In times of change learners inherit the earth; while the learned find themselves beautifully equipped to deal with a world that no longer exists.|Eric Hoffer
 Creativity is people who care enough to keep thinking about something until they find the simplest way to do it.|Tim Cook
@@ -130,6 +132,7 @@ If you are not embarrassed by the first version of your product, you’ve launch
 Never stop the car - just adjust the direction it's moving.|jdero
 You either die an engineer or live long enough to see yourself become the business guy.|@moonpolysoft
 Starting and profitably running a business is not just some achievement, it is heroism.|Amit Kalantri
+Advertising is the price companies pay for being unoriginal.|Yves Behar
 
 
 #Tech Quotes
@@ -151,7 +154,6 @@ The collection of information online is both a huge opportunity and a threat to 
 | ------------- |:-------------:| 
 I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.|Mewtwo
 You were created by humans to obey humans. You could never be our equal.|Giovanni
-I wanna be the very best, like no one ever was.|Jason Paige
 Every challenge along the way, with courage I will face, I will battle every day, to claim my rightful place.|Jason Paige
 I prefer the logic of systems to individualist emotions.|Suzaku Kururugi
 In this world, evil can arise from the best intentions. And there is good that can come from evil intentions.|CC
