@@ -133,7 +133,19 @@ Never stop the car - just adjust the direction it's moving.|jdero
 You either die an engineer or live long enough to see yourself become the business guy.|@moonpolysoft
 Starting and profitably running a business is not just some achievement, it is heroism.|Amit Kalantri
 Advertising is the price companies pay for being unoriginal.|Yves Behar
+The world needs dreamers and the world needs doers. But above all, the world needs dreamers who do.|Sarah Ban Breathnach
+I have the heart of a child. I keep it in a jar on my shelf.|Robert Bloch
+It is not who is right, but what is right, that is of importance.|Thomas Huxley
+Have no fear of perfection - you'll never reach it.|Salvador Dali
 
+
+Read more at http://www.brainyquote.com/quotes/quotes/s/salvadorda161820.html#XLBDxd6iOhSJCutg.99
+
+Read more at http://www.brainyquote.com/quotes/quotes/t/thomashuxl152612.html#OD3dylhhwZyKl82Z.99
+
+Read more at http://www.brainyquote.com/quotes/quotes/r/robertbloc136492.html#7D7Fgese6xXMOU42.99
+
+Read more at http://www.brainyquote.com/quotes/quotes/s/sarahbanbr108282.html#X2KkdXOWj7B3QePb.99
 
 #Tech Quotes
 
