@@ -137,7 +137,7 @@ The world needs dreamers and the world needs doers. But above all, the world nee
 I have the heart of a child. I keep it in a jar on my shelf.|Robert Bloch
 It is not who is right, but what is right, that is of importance.|Thomas Huxley
 Have no fear of perfection - you'll never reach it.|Salvador Dali
-
+In God we trust; all others must bring data.|W. Edwards Deming
 
 Read more at http://www.brainyquote.com/quotes/quotes/s/salvadorda161820.html#XLBDxd6iOhSJCutg.99
 
