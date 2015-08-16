@@ -232,16 +232,4 @@ I like ur hard nose but ur personal expectation of urself can't always hold true
 Şirketleşmek için uğraşmayın, yaptığınız iş sizi şirketleştirsin.|Abdurrahman Nakipoğlu
 
 
-#My Quotes
-
-| Quote        | Author           | 
-| ------------- |:-------------:| 
-You cant classify me as black or white. I am something much greater. I am gray.|Goktug Yilmaz
-To reach your dreams, you must sacrifice all other things you don't need.|Goktug Yilmaz
-They say I am cold hearted, I am just a greater man.|Goktug Yilmaz
-If something doesn't have a pirated version, then it is not worth checking out.|Goktug Yilmaz
-Victory is worth the sacrifice.|Goktug Yilmaz
-For me art is properly indented code.|Goktug Yilmaz
-There is no "good" or "evil", Only the truly powerful will survive!|Esqarrouth
-
 
