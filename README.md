@@ -99,6 +99,7 @@ The world is a comedy to those that think; a tragedy to those that feel.|Horace 
 Language is humanity’s oldest, and possibly best, growth hack. The right words, in the right order, at the right time, can do wonders.|Kissmetrics
 If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.|Henry Ford
 The person who is not master of himself can never be master of others.|Napoleon Hill
+The most impressive people I know spent their time with their head down getting shit done for a long, long time.|Sam Altman
 If knowledge is power, and its application your will, then wisdom is the sum of your power, and wisdom shared, is the alignment of others to your will...|???
 A word to the wise is sufficient.|???
 Vision without action is daydreaming and action without vision is a nightmare.|???
@@ -140,14 +141,6 @@ I have the heart of a child. I keep it in a jar on my shelf.|Robert Bloch
 It is not who is right, but what is right, that is of importance.|Thomas Huxley
 Have no fear of perfection - you'll never reach it.|Salvador Dali
 In God we trust; all others must bring data.|W. Edwards Deming
-
-Read more at http://www.brainyquote.com/quotes/quotes/s/salvadorda161820.html#XLBDxd6iOhSJCutg.99
-
-Read more at http://www.brainyquote.com/quotes/quotes/t/thomashuxl152612.html#OD3dylhhwZyKl82Z.99
-
-Read more at http://www.brainyquote.com/quotes/quotes/r/robertbloc136492.html#7D7Fgese6xXMOU42.99
-
-Read more at http://www.brainyquote.com/quotes/quotes/s/sarahbanbr108282.html#X2KkdXOWj7B3QePb.99
 
 #Tech Quotes
 
