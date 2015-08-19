@@ -216,6 +216,7 @@ I don't want to be a product of my environment. I want my environment to be a pr
 There is no good and evil, there is only power, and those too weak to seek it.|Lord Voldemort
 The thing about smart mother fuckers is that sometimes, they sound like crazy mother fuckers to stupid mother fuckers.|Walking Dead
 Nobody exists on purpose. Nobody belongs anywhere. Everybody's going to die. Come watch TV?|Morty
+The thing about a battle plan is, it only works if soldiers follow orders.|Dominic 
 
 #Friends Quotes
 
