@@ -217,6 +217,7 @@ There is no good and evil, there is only power, and those too weak to seek it.|L
 The thing about smart mother fuckers is that sometimes, they sound like crazy mother fuckers to stupid mother fuckers.|Walking Dead
 Nobody exists on purpose. Nobody belongs anywhere. Everybody's going to die. Come watch TV?|Morty
 The thing about a battle plan is, it only works if soldiers follow orders.|Dominic 
+You know what the romans did when they marched into a country? They gave the king a choice, join or die. Those who joined flourished with the empire. Those who didn't... Either way the romans took the country.|Dominic 
 
 #Friends Quotes
 
