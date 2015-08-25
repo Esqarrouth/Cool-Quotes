@@ -100,6 +100,11 @@ Language is humanity’s oldest, and possibly best, growth hack. The right words
 If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.|Henry Ford
 The person who is not master of himself can never be master of others.|Napoleon Hill
 Knowledge has no value except that which can be gained from its application toward some worthy end.|Napoleon Hill
+What the mind can conceive, it can achieve.|Napoleon Hill
+Action is the real measure of intelligence. |Napoleon Hill
+Effort only fully releases its reward after a person refuses to quit.|Napoleon Hill
+A goal is a dream with a deadline.|Napoleon Hill
+Education comes from within; you get it by struggle and effort and thought.|Napoleon Hill
 The most impressive people I know spent their time with their head down getting shit done for a long, long time.|Sam Altman
 If knowledge is power, and its application your will, then wisdom is the sum of your power, and wisdom shared, is the alignment of others to your will...|???
 A word to the wise is sufficient.|???
