@@ -105,6 +105,7 @@ Action is the real measure of intelligence. |Napoleon Hill
 Effort only fully releases its reward after a person refuses to quit.|Napoleon Hill
 A goal is a dream with a deadline.|Napoleon Hill
 Education comes from within; you get it by struggle and effort and thought.|Napoleon Hill
+Failure is man-made circumstance. It is never real until accepted by man as permanent.|Napoleon Hill
 The most impressive people I know spent their time with their head down getting shit done for a long, long time.|Sam Altman
 If knowledge is power, and its application your will, then wisdom is the sum of your power, and wisdom shared, is the alignment of others to your will...|???
 A word to the wise is sufficient.|???
