@@ -107,6 +107,7 @@ A goal is a dream with a deadline.|Napoleon Hill
 Education comes from within; you get it by struggle and effort and thought.|Napoleon Hill
 Failure is man-made circumstance. It is never real until accepted by man as permanent.|Napoleon Hill
 The most impressive people I know spent their time with their head down getting shit done for a long, long time.|Sam Altman
+I like offending people, because I think people who get offended should be offended.|Linus Torvalds
 If knowledge is power, and its application your will, then wisdom is the sum of your power, and wisdom shared, is the alignment of others to your will...|???
 A word to the wise is sufficient.|???
 Vision without action is daydreaming and action without vision is a nightmare.|???
