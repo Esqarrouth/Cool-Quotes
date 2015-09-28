@@ -108,6 +108,7 @@ Education comes from within; you get it by struggle and effort and thought.|Napo
 Failure is man-made circumstance. It is never real until accepted by man as permanent.|Napoleon Hill
 The most impressive people I know spent their time with their head down getting shit done for a long, long time.|Sam Altman
 I like offending people, because I think people who get offended should be offended.|Linus Torvalds
+Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it. If you aren't sure which way to do something, do it both ways and see which works better.|John Carmack
 If knowledge is power, and its application your will, then wisdom is the sum of your power, and wisdom shared, is the alignment of others to your will...|???
 A word to the wise is sufficient.|???
 Vision without action is daydreaming and action without vision is a nightmare.|???
@@ -163,6 +164,7 @@ I believe that success of software most of all lies in the customer acceptance o
 The collection of information online is both a huge opportunity and a threat to our privacy and security.|IEEE
 In the information age, the barriers just aren’t there. The barriers are self-imposed. If you want to set off and go develop some grand new thing, you don’t need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it. We slept on floors. We waded across rivers.|John Carmack
 All of science and technology and culture and learning and academics is built upon using the work that others have done before, Carmack thought. But to take a patenting approach and say it’s like, well, this idea is my idea, you cannot extend this idea in any way, because I own this idea—it just seems so fundamentally wrong.|John Carmack
+Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.|John Carmack
 
 #Anime Quotes
 
