@@ -109,6 +109,7 @@ Failure is man-made circumstance. It is never real until accepted by man as perm
 The most impressive people I know spent their time with their head down getting shit done for a long, long time.|Sam Altman
 I like offending people, because I think people who get offended should be offended.|Linus Torvalds
 Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it. If you aren't sure which way to do something, do it both ways and see which works better.|John Carmack
+A game is an opportunity to focus our energy, with relentless optimism, at something we’re good at (or getting better at) and enjoy. In other words, gameplay is the direct emotional opposite of depression.|Jane McGonigal
 If knowledge is power, and its application your will, then wisdom is the sum of your power, and wisdom shared, is the alignment of others to your will...|???
 A word to the wise is sufficient.|???
 Vision without action is daydreaming and action without vision is a nightmare.|???
