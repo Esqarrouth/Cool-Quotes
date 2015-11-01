@@ -151,6 +151,7 @@ I have the heart of a child. I keep it in a jar on my shelf.|Robert Bloch
 It is not who is right, but what is right, that is of importance.|Thomas Huxley
 Have no fear of perfection - you'll never reach it.|Salvador Dali
 In God we trust; all others must bring data.|W. Edwards Deming
+Reasonably smart people can rationalize anything, but entrepreneurs are especially gifted at this.|Ash Maurya
 
 #Tech Quotes
 
