@@ -200,6 +200,7 @@ This world is rotten, and those who are making it rot deserve to die. Someone ha
 There's only one certainty in life. A strong man stands above and conquers all!|Vegeta
 If hard is all it takes for you to bail out I dont wanna know you | Minene Uryu (The Future Diary)
 Dwelling on the past is a waste of time, the present moment belongs to the one who is brave enough to seize it|Roy Mustang
+Once you question your beliefs it's all over|Naruto
 
 #Movie Quotes
 
