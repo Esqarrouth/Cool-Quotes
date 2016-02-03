@@ -243,6 +243,6 @@ I think better, because I think as the machine that I am.|Eray Ozkural
 I like ur hard nose but ur personal expectation of urself can't always hold true to others. In summation. NAPALM. It's my fav leadership acronym Not All People Are Like Me. U r good. Others not so much. Pick ur battles.|Brutis37/Kegan
 Şirketleşmek için uğraşmayın, yaptığınız iş sizi şirketleştirsin.|Abdurrahman Nakipoğlu
 If your GF doesn't have a personal goal, her personal goal is to make your life miserable.|Goktug Yilmaz
-
+You need to see like a designer and think like a backend developer.|Vikas Bhagavatula
 
 
