@@ -152,31 +152,27 @@ It is not who is right, but what is right, that is of importance.|Thomas Huxley
 Have no fear of perfection - you'll never reach it.|Salvador Dali
 In God we trust; all others must bring data.|W. Edwards Deming
 Reasonably smart people can rationalize anything, but entrepreneurs are especially gifted at this.|Ash Maurya
-A man without a smiling face must not open a shop. |Chinese Proverb
+A man without a smiling face must not open a shop.|Chinese Proverb
 Customers dont expect you to be perfect. They do expect you to fix things when they go wrong. |Donald Porter
-Every great business is built on friendship. | J.C. Penney
-The man who will use his skill and constructive imagination to see how much he
-can give for a dollar, instead of how little he can give for a dollar, is bound to succeed. |Henry Ford
-The secret to success in business, and in life, is to serve others. Put others first in all you do. | Kevin Stirtz
-We are what we repeatedly do. Excellence then, is not a single act, but a habit.  Aristotle
-In business, three things are necessary: knowledge, temper, and time. | Owen Fellt
+Every great business is built on friendship. |J.C. Penney
+The secret to success in business, and in life, is to serve others. Put others first in all you do. |Kevin Stirtz
+We are what we repeatedly do. Excellence then, is not a single act, but a habit. |Aristotle
+In business, three things are necessary: knowledge, temper, and time. |Owen Fellt
 And while the law of competition may be sometimes hard for the individual, it is best for the race, because it ensures the survival of the fittest in every department. |Andrew Carnegie
 An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today. |Laurence J. Peter
 The golden rule for every business man is this: “Put yourself in your customer’s place.  |Orison Swett Marden 
 Business opportunities are like buses, there’s always another one coming. |Richard Branson
-A man should never neglect his family for business. | Walt Disney
-The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time. |Henry Ford
+A man should never neglect his family for business. |Walt Disney
 A business has to be involving, it has to be fun, and it has to exercise your creative instincts. |Richard Branson
 To be successful, you have to have your heart in your business, and your business in your heart. |Thomas Watson, Sr.
 If you work just for money, you’ll never make it, but if you love what you’re doing and you always put the customer first, success will be yours. | Ray Kroc
-Out there in some garage is an entrepreneur who’s forging a bullet with your company’s name on it. | Gary Hamel
+Out there in some garage is an entrepreneur who’s forging a bullet with your company’s name on it. |Gary Hamel
 I am a man of fixed and unbending principles, the first of which is to be flexible at all times |Senator Everet Dirksen
-Confidence is contagious; so is lack of confidence. | Vince Lombard
-Business people are like sharks, not just because we're gray and slightly oily, or because our teeth trail the innards of those we have eviscerated, but because we must move forward or die. | Stanley Bing.
- Drive your business. Let not your business drive you. | Benjamin Franklin
-The secret of business is to know something that nobody else knows. | Aristotle
-No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution. | Niccolo Machiavelli
-
+Confidence is contagious; so is lack of confidence. |Vince Lombard
+Business people are like sharks, not just because we're gray and slightly oily, or because our teeth trail the innards of those we have eviscerated, but because we must move forward or die. |Stanley Bing.
+ Drive your business. Let not your business drive you. |Benjamin Franklin
+The secret of business is to know something that nobody else knows. |Aristotle
+No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution. |Niccolo Machiavelli
 
 #Tech Quotes
 
@@ -371,8 +367,19 @@ When you start out in a team, you have to get the teamwork going and then you ge
 Unity is strength when there is teamwork and collaboration, wonderful things can be achieved. |Mattie Stepanek
 
 
-
-
-
+#Inspiration Quotes
+| Quote        | Author           | 
+| ------------- |:-------------:| 
+I have tried 99 times and have failed, but on the 100th time came success. |Albert Einstein
+The greater the obstacle, the more glory in achieving it. |Moliere
+Imagination is more important than knowledge. | Albert Einstein
+Remember, if you want a different result, do something different. |Anon.
+I am a great believer in luck, and I find that the harder I work the more luck I have. |Thomas Jefferson
+Never give up! Failure and rejection are only the first step to succeeding. |Jimmy Valvano
+He who conquers others is strong. He who conquers himself is mighty. ―|Lao Tzu Think
+The achievement of one goal should be the starting point of another. | Alexander Graham Bell
+He who dares wins. |Winston Churchill
+You may be disappointed if you fail, but you are doomed if you do not try. |Beverly Sills
+Your ideas are like diamonds without the refining process, they are just a dirty rock, but by cutting away the impurities, they become priceless. |Paul Kearly
 
 
