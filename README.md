@@ -382,4 +382,22 @@ He who dares wins. |Winston Churchill
 You may be disappointed if you fail, but you are doomed if you do not try. |Beverly Sills
 Your ideas are like diamonds without the refining process, they are just a dirty rock, but by cutting away the impurities, they become priceless. |Paul Kearly
 
+#Dreams Quotes
+
+| Quote        | Author           | 
+| ------------- |:-------------:| 
+ A dream is not something that you wake up from, but something that wakes you up. |Charlie Hedges
+ Stand often in the company of dreamers. They believe you can achieve impossible things. |Mary Anne Radmacher
+Great dreams of great dreamers are always transcended. |Abdul Kalam
+Dare to live the life you have dreamed for yourself. Go forward and make your dreams come true. | Ralph Waldo Emerson
+If you can dream it, you can do it. Always remember that this whole thing was started with a dream and a mouse. |Walt Disney
+I think we dream so we don’t have to be apart for so long. If we’re in each other’s dreams, we can be together all the time. |A.A. Milne
+A goal is a dream with a deadline. |Napolean Hill
+You are never too old to set another goal or to dream a new dream. |C.S. Lewis
+A dream you dream alone is only a dream. A dream you dream together is reality. |John Lennon
+Ideologies separate us. Dreams and anguish bring us together. | Eugene Ionesco
+Hold fast to dreams for if dreams die, life is a broken-winged bird that cannot fly. |Langston Hughes
+The future belongs to those who believe in the beauty of their dreams. |Eleanor Roosevelt
+Dreams are necessary to life. |Anaïs Nin
+I don't dream at night, I dream all day .I dream for a living. | Steven Spielberg
 
