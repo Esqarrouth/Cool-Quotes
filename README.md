@@ -152,6 +152,27 @@ It is not who is right, but what is right, that is of importance.|Thomas Huxley
 Have no fear of perfection - you'll never reach it.|Salvador Dali
 In God we trust; all others must bring data.|W. Edwards Deming
 Reasonably smart people can rationalize anything, but entrepreneurs are especially gifted at this.|Ash Maurya
+A man without a smiling face must not open a shop.|Chinese Proverb
+Customers dont expect you to be perfect. They do expect you to fix things when they go wrong. |Donald Porter
+Every great business is built on friendship. |J.C. Penney
+The secret to success in business, and in life, is to serve others. Put others first in all you do. |Kevin Stirtz
+We are what we repeatedly do. Excellence then, is not a single act, but a habit. |Aristotle
+In business, three things are necessary: knowledge, temper, and time. |Owen Fellt
+And while the law of competition may be sometimes hard for the individual, it is best for the race, because it ensures the survival of the fittest in every department. |Andrew Carnegie
+An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today. |Laurence J. Peter
+The golden rule for every business man is this: “Put yourself in your customer’s place.  |Orison Swett Marden 
+Business opportunities are like buses, there’s always another one coming. |Richard Branson
+A man should never neglect his family for business. |Walt Disney
+A business has to be involving, it has to be fun, and it has to exercise your creative instincts. |Richard Branson
+To be successful, you have to have your heart in your business, and your business in your heart. |Thomas Watson, Sr.
+If you work just for money, you’ll never make it, but if you love what you’re doing and you always put the customer first, success will be yours. | Ray Kroc
+Out there in some garage is an entrepreneur who’s forging a bullet with your company’s name on it. |Gary Hamel
+I am a man of fixed and unbending principles, the first of which is to be flexible at all times |Senator Everet Dirksen
+Confidence is contagious; so is lack of confidence. |Vince Lombard
+Business people are like sharks, not just because we're gray and slightly oily, or because our teeth trail the innards of those we have eviscerated, but because we must move forward or die. |Stanley Bing.
+ Drive your business. Let not your business drive you. |Benjamin Franklin
+The secret of business is to know something that nobody else knows. |Aristotle
+No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution. |Niccolo Machiavelli
 
 #Tech Quotes
 
@@ -245,4 +266,138 @@ I like ur hard nose but ur personal expectation of urself can't always hold true
 If your GF doesn't have a personal goal, her personal goal is to make your life miserable.|Goktug Yilmaz
 You need to see like a designer and think like a backend developer.|Vikas Bhagavatula
 
+#Books Quotes
+
+| Quote        | Author           | 
+| ------------- |:-------------:| 
+Only the very weak-minded refuse to be influenced by literature and poetry. | Cassandra Clare
+Books are like mirrors: if a fool looks in, you cannot expect a genius to look out. | J.K Rowling 
+A book must be the axe for the frozen sea within us. |Franz Kafka
+A classic is a book that has never finished saying what it has to say. |Italo Calvino 
+Why can't people just sit and read books and be nice to each other? |David Baldacci 
+Never lend books, for no one ever returns them; the only books I have in my library are books that other folks have lent me. | Anatole France
+Anyone who says they have only one life to live must not know how to read a book. |Anon
+A house without books is like a room without windows. | Horace Mann
+ Whenever you read a good book, somewhere in the world a door opens to allow in more light.| Vera Nazarian
+A room without books is like a body without a soul. | Marcus Tullius Cicero
+The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid. | Jane Austen
+Good friends, good books, and a sleepy conscience: this is the ideal life.|Mark Twain
+ I have always imagined that Paradise will be a kind of library. |Jorge Luis Borges
+Never trust anyone who has not brought a book with them.| Lemony Snicket Classic
+The books that the world calls immoral are books that show the world its own shame. |Oscar Wilde
+Books are the ultimate Dumpers: put them down and they’ll wait for you forever; pay attention to them and they always love you back. |John Green
+There are worse crimes than burning books. One of them is not reading them. |Joseph Brodsky
+So, please, oh please, we beg, we pray, go throw your TV set away, and in its place you can install, a lovely bookcase on the wall. |Roald Dahl
+Think before you speak. Read before you think. |Fran Lebowitz
+Never judge a book by its movie. | J.W. Eagan
+If you have a garden and a library, you have everything you need. |Marcus Tullius 
+Autobiography is probably the most respectable form of lying.| Humphrey Carpenter
+Books are the mirrors of the soul. |Virginia Woolf
+Reading well is one of the great pleasures that solitude can afford you. | Harold Bloom 
+
+#Humour Quotes
+
+| Quote        | Author           | 
+| ------------- |:-------------:| 
+Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye. | Jim Henson
+The difference between genius and stupidity is; genius has its limits. | Albert Einstein 
+The statistics on sanity are that one out of every four people is suffering from a mental illness. Look at your 3 best friends. If they're ok, then it's you. | Rita Mae Brown
+A person without a sense of humor is like a wagon without springs. It's jolted by every pebble on the road. | Henry Ward Beecher
+A well-developed sense of humor is the pole that adds balance to your steps as you walk the tightrope of life. | William Arthur Ward
+ You can turn painful situations around through laughter. If you can find humor in anything, even poverty, you can survive it.| Bill Cosby
+ Everything human is pathetic. The secret source of humor itself is not joy but sorrow. There is no humor in heaven. | Mark Twain
+Analyzing humor is like dissecting a frog. Few people are interested and the frog dies of it. | E. B. White
+ When humor goes, there goes civilization.| Erma Bombeck
+The secret to humor is surprise. | Anon
+I think the next best thing to solving a problem is finding some humor in it.| Frank Howard Clark
+The satirist shoots to kill while the humorist brings his prey back alive and eventually releases him again for another chance.| Peter De Vries
+I like work: it fascinates me. I can sit and look at it for hours. | Jerome K. Jerome 
+Humor is laughing at what you haven't got when you ought to have it. |Langston Hughes
+Humor is a rubber sword - it allows you to make a point without drawing blood. |Mary Hirsch
+Defining and analyzing humor is a pastime of humorless people.| Robert Benchley 
+
+#Success Quotes
+
+| Quote        | Author           | 
+| ------------- |:-------------:| 
+In order to succeed you must fail so that you know what not to do the next time. | Anthony J. D'Angelo
+ People who are afraid to fail can never experience the joys of success.| Pete Zafra
+Do not go where the path may lead, go instead where there is no path and leave a trail. | Ralph Waldo Emerson
+Success is doing ordinary things extraordinarily well. |Jim Rohn
+The secret of getting ahead is getting started. | Mark Twain
+For true success ask yourself these four questions: Why? Why not? Why not me? |Anon
+Impossible is a word to be found only in the dictionary of fools. |Napoleon Bonaparte 
+It is hard to fail, but it is worse never to have tried to succeed. | Theodore Roosevelt
+Success is a journey, not a destination. | Ben Sweetland
+The journey of a thousand miles begins with a single step. | Chinese proverb
+You just can't beat the person who never gives up. | Babe Ruth
+Successful people are always looking for opportunities to help others |Anon
+Don't wish for it.Work for it! |Anon.
+Unsuccessful people are always asking what's in it for me? | Brian Tracy
+The only man who never makes mistakes is the man who never does anything. |Theodore Roosevelt
+I don’t know the key to success, but the key to failure is trying to please everybody. |Bill Cosby
+The greatest barrier to success is the fear of failure. | Sven Goran Eriksson
+Try to become not a man of success, but try rather to become a man of value.| Albert Einstein</item>
+
+#Teamwork Quotes
+
+| Quote        | Author           | 
+| ------------- |:-------------:| 
+ Teamwork divides the task and multiplies the success. | Anon
+Contrary to popular belief, there most certainly is an "I" in "team." It is the same "I" that appears three times in responsibility. |Amber Harding
+Remember upon the conduct of each depends the fate of all. |Alexander the Great
+ Finding good players is easy. Getting them to play as a team is another story. |Casey Stengel
+The achievements of an organization are the results of the combined effort of each individual. | Vince Lombardi
+We are only as strong as we are united, as weak as we are divided. | J.K. Rowling
+A hand fought best when it made a fist. |Guy Gavriel
+The reason why the world lacks unity and lies broken and in heaps, is because man is disunited with himself. |Ralph Waldo Emerson
+Build for your team a feeling of oneness, of dependence on one another and of strength to be derived by unity. |Vince Lombardi
+Effective teamwork is all about making a good, well-balanced salad not whipping individuals into a single batch of V8. | Sandra Richardson
+Without forgiveness, there can be no real freedom to act within a group. | Max DePree
+Alone we can do so little; together we can do so much. |Helen Keller
+Talent wins games, but teamwork and intelligence wins championships. | Michael Jordan
+Teamwork is the secret that make common people achieve uncommon result. | Ifeanyi Enoch
+If two men on the same job agree all the time, then one is useless. If they disagree all the time, both are useless. | Darryl F. Zanuck
+ None of us is as smart as all of us.| Ken Blanchard
+Do you want a collection of brilliant minds or a brilliant collection of minds? |R. Meredith Belbin
+Teams share the burden and divide the grief. | Doug Smith
+ No one can whistle a symphony. It takes an orchestra to play it.| H.E. Luccock
+The best teamwork comes from men who are working independently toward one goal in unison.| James Cash Penney
+When you start out in a team, you have to get the teamwork going and then you get something back. |Michael Schumacher
+Unity is strength when there is teamwork and collaboration, wonderful things can be achieved. |Mattie Stepanek
+
+
+#Inspiration Quotes
+| Quote        | Author           | 
+| ------------- |:-------------:| 
+I have tried 99 times and have failed, but on the 100th time came success. |Albert Einstein
+The greater the obstacle, the more glory in achieving it. |Moliere
+Imagination is more important than knowledge. | Albert Einstein
+Remember, if you want a different result, do something different. |Anon.
+I am a great believer in luck, and I find that the harder I work the more luck I have. |Thomas Jefferson
+Never give up! Failure and rejection are only the first step to succeeding. |Jimmy Valvano
+He who conquers others is strong. He who conquers himself is mighty. ―|Lao Tzu Think
+The achievement of one goal should be the starting point of another. | Alexander Graham Bell
+He who dares wins. |Winston Churchill
+You may be disappointed if you fail, but you are doomed if you do not try. |Beverly Sills
+Your ideas are like diamonds without the refining process, they are just a dirty rock, but by cutting away the impurities, they become priceless. |Paul Kearly
+
+#Dreams Quotes
+
+| Quote        | Author           | 
+| ------------- |:-------------:| 
+ A dream is not something that you wake up from, but something that wakes you up. |Charlie Hedges
+ Stand often in the company of dreamers. They believe you can achieve impossible things. |Mary Anne Radmacher
+Great dreams of great dreamers are always transcended. |Abdul Kalam
+Dare to live the life you have dreamed for yourself. Go forward and make your dreams come true. | Ralph Waldo Emerson
+If you can dream it, you can do it. Always remember that this whole thing was started with a dream and a mouse. |Walt Disney
+I think we dream so we don’t have to be apart for so long. If we’re in each other’s dreams, we can be together all the time. |A.A. Milne
+A goal is a dream with a deadline. |Napolean Hill
+You are never too old to set another goal or to dream a new dream. |C.S. Lewis
+A dream you dream alone is only a dream. A dream you dream together is reality. |John Lennon
+Ideologies separate us. Dreams and anguish bring us together. | Eugene Ionesco
+Hold fast to dreams for if dreams die, life is a broken-winged bird that cannot fly. |Langston Hughes
+The future belongs to those who believe in the beauty of their dreams. |Eleanor Roosevelt
+Dreams are necessary to life. |Anaïs Nin
+I don't dream at night, I dream all day .I dream for a living. | Steven Spielberg
 
