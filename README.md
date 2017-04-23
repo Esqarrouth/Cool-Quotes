@@ -368,6 +368,7 @@ Unity is strength when there is teamwork and collaboration, wonderful things can
 
 
 #Inspiration Quotes
+
 | Quote        | Author           | 
 | ------------- |:-------------:| 
 I have tried 99 times and have failed, but on the 100th time came success. |Albert Einstein
