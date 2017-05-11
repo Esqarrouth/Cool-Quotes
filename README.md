@@ -1,4 +1,4 @@
-#Famous Quotes
+## Famous Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
@@ -120,7 +120,7 @@ I will win, not immediately but definitely.|???
 Only generals that succeed can form dictatorships.|???
 Emotion is weakness.|???
 
-#Business Quotes
+## Business Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
@@ -174,7 +174,7 @@ Business people are like sharks, not just because we're gray and slightly oily, 
 The secret of business is to know something that nobody else knows. |Aristotle
 No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution. |Niccolo Machiavelli
 
-#Tech Quotes
+## Tech Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
@@ -189,7 +189,7 @@ In the information age, the barriers just aren’t there. The barriers are self-
 All of science and technology and culture and learning and academics is built upon using the work that others have done before, Carmack thought. But to take a patenting approach and say it’s like, well, this idea is my idea, you cannot extend this idea in any way, because I own this idea—it just seems so fundamentally wrong.|John Carmack
 Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.|John Carmack
 
-#Anime Quotes
+## Anime Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
@@ -223,7 +223,7 @@ If hard is all it takes for you to bail out I dont wanna know you | Minene Uryu 
 Dwelling on the past is a waste of time, the present moment belongs to the one who is brave enough to seize it|Roy Mustang
 Once you question your beliefs it's all over|Naruto
 
-#Movie Quotes
+## Movie Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
@@ -255,7 +255,7 @@ The thing about a battle plan is, it only works if soldiers follow orders.|Domin
 You know what the romans did when they marched into a country? They gave the king a choice, join or die. Those who joined flourished with the empire. Those who didn't... Either way the romans took the country.|Dominic 
 These invisible lines we draw on the world-- I realize they have no meaning. Why should a man lose his life for something illusory?|John Greer
 
-#Friends Quotes
+## Friends Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
@@ -266,7 +266,7 @@ I like ur hard nose but ur personal expectation of urself can't always hold true
 If your GF doesn't have a personal goal, her personal goal is to make your life miserable.|Goktug Yilmaz
 You need to see like a designer and think like a backend developer.|Vikas Bhagavatula
 
-#Books Quotes
+## Books Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
@@ -295,7 +295,7 @@ Autobiography is probably the most respectable form of lying.| Humphrey Carpente
 Books are the mirrors of the soul. |Virginia Woolf
 Reading well is one of the great pleasures that solitude can afford you. | Harold Bloom 
 
-#Humour Quotes
+## Humour Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
@@ -316,7 +316,7 @@ Humor is laughing at what you haven't got when you ought to have it. |Langston H
 Humor is a rubber sword - it allows you to make a point without drawing blood. |Mary Hirsch
 Defining and analyzing humor is a pastime of humorless people.| Robert Benchley 
 
-#Success Quotes
+## Success Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
@@ -339,7 +339,7 @@ I don’t know the key to success, but the key to failure is trying to please ev
 The greatest barrier to success is the fear of failure. | Sven Goran Eriksson
 Try to become not a man of success, but try rather to become a man of value.| Albert Einstein</item>
 
-#Teamwork Quotes
+## Teamwork Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
@@ -367,7 +367,7 @@ When you start out in a team, you have to get the teamwork going and then you ge
 Unity is strength when there is teamwork and collaboration, wonderful things can be achieved. |Mattie Stepanek
 
 
-#Inspiration Quotes
+## Inspiration Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
@@ -383,7 +383,7 @@ He who dares wins. |Winston Churchill
 You may be disappointed if you fail, but you are doomed if you do not try. |Beverly Sills
 Your ideas are like diamonds without the refining process, they are just a dirty rock, but by cutting away the impurities, they become priceless. |Paul Kearly
 
-#Dreams Quotes
+## Dreams Quotes
 
 | Quote        | Author           | 
 | ------------- |:-------------:| 
